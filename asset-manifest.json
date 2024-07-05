@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/gsap-3d-apple-clone/static/css/main.e9fa2ad7.css",
-    "main.js": "/gsap-3d-apple-clone/static/js/main.83460635.js",
+    "main.js": "/gsap-3d-apple-clone/static/js/main.7d705a53.js",
     "static/media/hightlight-third.mp4": "/gsap-3d-apple-clone/static/media/hightlight-third.2120d480ec84c9338594.mp4",
     "static/media/hero.mp4": "/gsap-3d-apple-clone/static/media/hero.e2daabd1b537e5fce6d8.mp4",
     "static/media/explore.mp4": "/gsap-3d-apple-clone/static/media/explore.8b90fd8b29c7a239b815.mp4",
@@ -29,10 +29,10 @@
     "static/media/pause.svg": "/gsap-3d-apple-clone/static/media/pause.2612e399c7e47f178acfaf25e00e6007.svg",
     "static/media/play.svg": "/gsap-3d-apple-clone/static/media/play.e6994d940430b1d2ca28955e1ea9b93d.svg",
     "main.e9fa2ad7.css.map": "/gsap-3d-apple-clone/static/css/main.e9fa2ad7.css.map",
-    "main.83460635.js.map": "/gsap-3d-apple-clone/static/js/main.83460635.js.map"
+    "main.7d705a53.js.map": "/gsap-3d-apple-clone/static/js/main.7d705a53.js.map"
   },
   "entrypoints": [
     "static/css/main.e9fa2ad7.css",
-    "static/js/main.83460635.js"
+    "static/js/main.7d705a53.js"
   ]
 }
