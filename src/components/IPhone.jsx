@@ -11,7 +11,7 @@ import { useGLTF, useTexture } from '@react-three/drei'
 import * as THREE from 'three'
 
 export function Model(props) {
-  const { nodes, materials } = useGLTF('public/models/scene.glb')
+  const { nodes, materials } = useGLTF('models/scene.glb')
 
   const texture = useTexture(props.item.img);
 
@@ -258,4 +258,4 @@ export function Model(props) {
 
 export default Model
 
-useGLTF.preload('public/models/scene.glb')
+useGLTF.preload('models/scene.glb')
